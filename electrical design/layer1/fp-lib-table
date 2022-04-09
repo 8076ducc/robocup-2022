@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "ALS-PT19-315C_L177_TR8")(type "KiCad")(uri "/Users/hj/Documents/KiCad/Libraries/ALS-PT19-315C_L177_TR8")(options "")(descr ""))
+  (lib (name "OF-SMD3528WC")(type "KiCad")(uri "/Users/hj/Documents/KiCad/Libraries/OF-SMD3528WC")(options "")(descr ""))
+  (lib (name "74LVC2G07GW_125")(type "KiCad")(uri "/Users/hj/Documents/KiCad/Libraries/74LVC2G07GW_125")(options "")(descr ""))
+)
